@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+@font-face {
+	font-family: 'NanumSquareR';
+	src: url(../css/NanumSquareR.ttf) format('truetype');
+}
+
+body {
+	margin: 0 auto;
+	text-align: center;
+	font-family:"한컴 윤고딕 250";
+}
+
+header {
+	margin: 0 auto;
+	text-align: center;
+}
+
+footer {
+	margin: 0 auto;
+	text-align: center;
+}
+
+section {
+	margin: 0 auto;
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+	text-align: center;
+}
+
+select {
+	width: 175px;
+}
